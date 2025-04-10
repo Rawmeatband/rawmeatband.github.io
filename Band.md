@@ -1,5 +1,5 @@
 # Meet the band
 
-### [Buzzsaw Patty](BuzzsawPatty.md)
+### [Buzzsaw Patty](bandmembers/Buzzsaw.md)
 ### Ikki Patty
 ### Chicken Patty
