@@ -1,9 +1,9 @@
 # rawmeatband.github.io
 [Music](Music.md)
+lyrics
 Videos
 Photos
 Band
-lyrics
 links to stuff
 
 
