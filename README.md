@@ -4,7 +4,7 @@
 [Videos](Videos.md)
 [Photos](Photos.md)
 [Band](Band.md)
-links to stuff
+
 
 
 
