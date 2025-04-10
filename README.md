@@ -5,8 +5,8 @@
 [Photos](Photos.md)
 [Band](Band.md)
 
-
-
+[Youtube](https://www.youtube.com/@RAWMEATBANNED)
+[Bandcamp](https://rawmeatbanned.bandcamp.com/)
 
 ## raw meat news!
 ### 10/04/25
