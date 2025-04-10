@@ -1,4 +1,4 @@
-# rawmeatband.github.io
+# RAW MEAT'S WEBSITE
 [Music](Music.md)
 [Lyrics](Lyrics.md)
 [Videos](Videos.md)
