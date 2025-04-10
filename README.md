@@ -1,5 +1,5 @@
 # rawmeatband.github.io
-Music
+[Music](Music.md)
 Videos
 Photos
 Band
