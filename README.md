@@ -1,7 +1,7 @@
 # rawmeatband.github.io
 [Music](Music.md)
 [Lyrics](Lyrics.md)
-Videos
+[Videos](Videos.md)
 Photos
 Band
 links to stuff
