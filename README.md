@@ -2,7 +2,7 @@
 [Music](Music.md)
 [Lyrics](Lyrics.md)
 [Videos](Videos.md)
-Photos
+[Photos](Photos.md)
 Band
 links to stuff
 
