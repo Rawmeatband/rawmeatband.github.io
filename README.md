@@ -3,7 +3,7 @@
 [Lyrics](Lyrics.md)
 [Videos](Videos.md)
 [Photos](Photos.md)
-Band
+[Band](Band.md)
 links to stuff
 
 
